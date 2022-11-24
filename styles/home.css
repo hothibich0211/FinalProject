@@ -1,0 +1,114 @@
+:root {
+	--primary-color: #BF96C7
+}
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 14px;
+  background-color: #1D1D1D;
+	color: #FFFFFF;
+}
+section.section1{
+	height: 60vh;
+	margin-left: 250px;
+	margin-right: 250px;
+	background: url(/assets/images/the-last-of-us-part-ii-ellie-playstation-4-2020-games-3840x2160-1880.jpg);
+	background-size: cover;
+}
+.header{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 130px;
+	background: rgba(8, 8, 8, 0.4);
+	padding: 0 100px ;
+	box-sizing: border-box;
+}
+.header ul{
+	display: flex;
+	justify-content: center;
+	margin:0;
+	padding: 0;
+}
+.header ul li{
+	list-style: none;
+}
+.header ul li a{
+	position: relative;
+	display: block;
+	height: 100px;
+	line-height: 100px;
+	font-size: 18px;
+	padding: 0 40px;
+	box-sizing: border-box;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+.header ul li a:hover{
+	color: #fc0606;
+}
+section.section2{
+	padding-left: 250px;
+	padding-right: 250px;
+}
+h1{
+	position: relative;
+	top: 20px;
+	font-size: 24px;
+  color: var(--primary-color);
+  text-align: center;
+}
+.photo, .photo1{
+  display: flex; 
+	justify-content: center; 
+	position: relative;
+	top: 20px;
+}
+.col-xl-10{
+	position: relative;
+	top: -18px;
+	background-color: #0d0d0d;
+}
+.row{
+	display: flex;
+}
+.list1 a{
+	color: #FFFFFF;
+}
+.list1 ul li a{
+	float: left;
+}
+.list1 a:hover{
+	color: var(--primary-color);
+}
+.Categories,.Shortly,.touch{
+	color: var(--primary-color);
+	text-align: center;
+}
+.text{
+	color: #6F6F6F;
+}
+.link{
+	color: var(--primary-color);
+}
+.link-1{
+	
+}
+.row{
+	position: relative;
+	top: 20px;
+}
+.col-xl-3{
+	padding-left: 5px;
+}
+.col-6{
+	padding-left: 100px;
+	padding-right: 50px;
+}
+
+
+
+
