@@ -1,0 +1,127 @@
+#content {
+    width: 1024px;
+    margin: 0 auto;
+    background: url(../images/bg.jpg) 0 0 repeat;
+    padding-bottom: 49px;
+    border-bottom: 1px solid ;
+    background-color: #6f6f6f;
+  }
+  .ic {
+    border: 0;
+    float: right;
+    background: #fff;
+    color: #f00;
+    width: 50%;
+    line-height: 10px;
+    font-size: 10px;
+    margin: -220% 0 0 0;
+    overflow: hidden;
+    padding: 0;
+  }
+  .pad-1 {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .page5-row1 {
+    overflow: hidden;
+    padding-top: 26px;
+  }
+  .col-12 {
+    float: left;
+    width: 600px;
+    margin-right: 79px;
+  }
+  .p2 {
+    margin-bottom: 25px;
+  }
+  
+  .h2 {
+    border-bottom: #353535 1px solid;
+    padding-bottom: 7px;
+  }
+  
+  h2 {
+    font-size: 28px;
+    line-height: 36px;
+    color: #bf96c7;
+    font-weight: bold;
+    font-style: italic;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-image: none;
+  }
+  
+  
+  ul {
+    list-style: none;
+  }
+  ul.list-3 li {
+    padding: 0px 0 26px 0px;
+    line-height: 18px;
+    overflow: hidden;
+  }
+  
+  .bot-0 {
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+  }
+  ul.list-3 li span.date {
+    display: block;
+    float: left;
+    background: url(../images/date-bg.png) 15px 0px no-repeat;
+    width: 97px;
+    font-size: 48px;
+    line-height: 60px;
+    font-style: italic;
+  }
+  ul.list-3 li span.extra-wrap {
+    font-size: 14px;
+    color: #6f6f6f;
+    line-height: 18px;
+    display: block;
+  }
+  
+  .extra-wrap {
+    overflow: hidden;
+  }
+  .link-1-pad {
+    float: right;
+    margin-top: 9px;
+  }
+  
+  .link-1 {
+    font-size: 16px;
+    line-height: 20px;
+    color: #fff;
+    font-style: italic;
+    text-decoration: underline;
+    display: inline-block;
+  }
+  .col-13 {
+    float: left;
+    width: 265px;
+  }
+  #content {
+    width: 1024px;
+    margin: 0 auto;
+    background: url(../images/bg.jpg) 0 0 repeat;
+    padding-bottom: 49px;
+    border-bottom: #303030 1px solid;
+  }
+  img{
+    width: 300px;
+    height: 220px;
+  
+  }
+  .upper clr-1 p5{
+    font-size: 20px;
+  }
+  .link-1 link-1-pad{
+    display: flex;
+    padding-right: 30px;
+  }
+  .list3.li.span.date{
+      font-size: 30px;
+  }
